@@ -1,4 +1,4 @@
-# 🌐 Sanjiv Portfolio Website
+# 🌐 B Sanjiv Portfolio Website
 
 This is my personal portfolio website built using **HTML and CSS** to showcase my skills, projects, education, and achievements as a B.Tech CSE w/s AI ML student. The design is simple, clean, and fully responsive.
 
